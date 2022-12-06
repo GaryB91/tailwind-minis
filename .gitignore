@@ -1,1 +1,5 @@
-*/node_modules
+.gitignore
+image-gallery/node_modules
+pricing-cards/node_modules
+product-modal/node_modules
+simple-tailwind-starter/node_modules
